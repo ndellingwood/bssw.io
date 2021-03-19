@@ -48,7 +48,6 @@ Applications are closed for the 2021 BSSw Fellowship Program.  Please check back
 - Please [subscribe to our mailing list](https://bssw.io/pages/receive-our-email-digest) to receive further details, including telecon information for the Q&A session.
 -->
 
-
 ### More information
 
 - [BSSw Fellowship Program](https://bssw.io/fellowship)
@@ -60,6 +59,7 @@ Applications are closed for the 2021 BSSw Fellowship Program.  Please check back
 - [Online Application](https://docs.google.com/forms/d/e/1FAIpQLSePz4n96qwobqzeOMsrpGAgpVx4NvKDEA42qFvD3qIs6a6nAw/viewform?usp=sf_link) (Submissions open!)
 - <mark>Application deadline: Wednesday, September 30, 2020</mark>; this is a firm deadline that will not be extended.
 -->
+
 
 <br>
 
@@ -74,4 +74,5 @@ Applications are closed for the 2021 BSSw Fellowship Program.  Please check back
   <img src='https://github.com/betterscientificsoftware/images/raw/master/Logo_NSF_4ColorB_Sm.png' class='logo' /> 
 </div>  
 </div>
+
 
