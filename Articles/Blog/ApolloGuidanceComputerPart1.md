@@ -64,7 +64,7 @@ System | Kb | Flops (F) | (Watts) F/W | (Kg) F/Kg | (m<sup>3</sup>) F/m<sup>3</s
 :--- | :---: | :---: | :---: | :---: | :---:
 AGC Block II<sup>[14]</sup> | 76 | 14,245 | (55) 259.0 | (32) 445 | (00.03) 50000
 IBM 360-20<sup>[10],[11]</sup> | 32 | 3,011 | (5000) 0.6 | (600) 5 | (30.00) 100
-IBM AC922<br>(Summit<sup>[28],[29],[42]</sup>) | 1e<sup>12</sup> | 14e<sup>16</sup> | (97e<sup>5</sup>) 14e<sup>9</sup>  | (31e<sup>4</sup>) 45e<sup>10</sup>  | (930) 15e<sup>13</sup>
+IBM AC922<br>(Summit<sup>[28],[29],[42]</sup>) | 1E<sup>12</sup> | 14E<sup>16</sup> | (97E<sup>5</sup>) 14E<sup>9</sup>  | (31E<sup>4</sup>) 45E<sup>10</sup>  | (930) 15E<sup>13</sup>
 
 <sup>a</sup>Flop = single-precision multiply + add
 
@@ -72,7 +72,7 @@ IBM AC922<br>(Summit<sup>[28],[29],[42]</sup>) | 1e<sup>12</sup> | 14e<sup>16</s
 
 The AGC utilized two types of *core* memory<sup>[17]</sup>: erasable memory
 (2K words) using coincident current cores and fixed (read-only) memory (36K words)
-using rope cores,<sup>[18]</sup> technology specifically designed for and unique to the
+using rope cores,<sup>[18],[47]</sup> technology specifically designed for and unique to the
 AGC. Both were nonvolatile, providing extra protection against data loss during
 faults. The advantages of rope core were superlative robustness and
 significantly higher density because a single core was used to store
@@ -146,7 +146,7 @@ the software would present even greater challenges, ultimately becoming the
 rate-determining factor in delivering flight-ready units.
 
 Because autonomous guidance was so critical for Apollo, NASA funded the development of
-this revolutionary new computer to support it.<sup>[53]</sup> Half a century
+this revolutionary new computer to support it.<sup>[52],[53]</sup> Half a century
 later, because self-driving is so critical in the auto industry, Tesla has
 developed their own custom, proprietary AI chip to support it.<sup>[50]</sup>
 
